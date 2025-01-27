@@ -1,0 +1,26 @@
+1- Create ui
+2- Add CDN
+Api docs -> Guide -> Refrence -> Javascript
+<script src="https://unpkg.com/@supabase/supabase-js@2"></script>
+
+3- Get Supabase secret & base url
+projet setting -> Api
+
+
+4-> Desable email confirmation
+
+Authentication ->
+
+
+5- Create function for login and signup
+
+6- Get Method for signup and login
+
+7- Api docs -> Guide -> Auth -> Password-based then 
+
+
+
+
+
+
+
